@@ -1,6 +1,6 @@
 # Hello, my name is Néstor Larenas Ortega! 👋
 
-![Banner](https://github.com/Nestordeveloper/blob/main/banner-github-nestordeveloper.png)
+![Banner](https://github.com/Nestordeveloper/Nestordeveloper/blob/main/banner-github-nestordeveloper.png)
 
 <details>
 <summary><strong>English</strong></summary>
