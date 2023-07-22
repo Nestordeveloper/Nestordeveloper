@@ -2,6 +2,14 @@
 
 ![Banner](https://github.com/Nestordeveloper/Nestordeveloper/blob/main/banner-github-nestordeveloper.png)
 
+Soy titulado de Ingeniería Informática con 3 años de experiencia en el rubro.
+</br>
+En 2018 ingrese a la carrera de informática para aprender sobre mi pasión que es la tecnología, en los años posteriores estuve constantemente aprendiendo sobre la programación y datos. Estas dos áreas son para mi, lo más apasionante de la tecnología y el gran aporte que hoy en día representan para personas, emprendimientos y empresas es significativo.
+
+Actualmente me encuentro constantemente especializando mis habilidades de programación web, y ciencia de datos. Ademas de esto, mi enfoque personal esta en un nuevo proyecto en que busco integrar machine learning e inteligencia artificial.
+
+<strong>"Los que pueden imaginar cualquier cosa, pueden crear lo imposible".</strong> <em> - Alan Turing </em>
+
 <details>
 <summary><strong>English</strong></summary>
 
@@ -12,20 +20,6 @@ In 2018, I started my journey in the field of computer science to pursue my pass
 Currently, I am continually enhancing my skills in web development and data science. Moreover, I am focused on a new project where I aim to integrate machine learning and artificial intelligence.
 
 <strong>"Those who can imagine anything, can create the impossible." - Alan Turing</strong>
-
-</details>
-</details>
-
-<details>
-<summary><strong>Español</strong></summary>
-
-Soy titulado de Ingeniería Informática con 3 años de experiencia en el rubro.
-</br>
-En 2018 ingrese a la carrera de informática para aprender sobre mi pasión que es la tecnología, en los años posteriores estuve constantemente aprendiendo sobre la programación y datos. Estas dos áreas son para mi, lo más apasionante de la tecnología y el gran aporte que hoy en día representan para personas, emprendimientos y empresas es significativo.
-
-Actualmente me encuentro constantemente especializando mis habilidades de programación web, y ciencia de datos. Ademas de esto, mi enfoque personal esta en un nuevo proyecto en que busco integrar machine learning e inteligencia artificial.
-
-<strong>"Los que pueden imaginar cualquier cosa, pueden crear lo imposible".</strong> <em> - Alan Turing </em>
 
 </details>
 
