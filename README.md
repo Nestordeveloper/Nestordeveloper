@@ -1,6 +1,6 @@
 # Hello, my name is Néstor Larenas Ortega! 👋
 
-![Banner](https://github.com/Nestordeveloper/Nestordeveloper/blob/main/banner-github-nestordeveloper.png)
+![Banner](https://github.com/Nestordeveloper/Nestordeveloper/blob/main/banner-github-nilortega.png)
 
 Soy titulado de Ingeniería Informática con 3 años de experiencia en el rubro.
 </br>
